@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ImJeetRS
-- 👀 I’m interested in Java, Android App Development.
+- 👀 I’m interested in Java, NodeJS, ReactJS, Android App Development.
 - 🌱 I’m currently learning to Every possible tasks which can make my career better.
 - 💞️ I’m looking to collaborate on Java & Android App Development projects. 
 - 📫 just ping me here or on my Mail Id.
